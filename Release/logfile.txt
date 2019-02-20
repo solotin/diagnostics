@@ -1,0 +1,20 @@
+--------------------10.05.2018 23:27:58--------------------
+Unable to connect to any of the specified MySQL hosts.
+--------------------11.05.2018 21:48:33--------------------
+Unable to connect to any of the specified MySQL hosts.
+--------------------16.05.2018 18:23:27--------------------
+Authentication to host 'otc.zzz.com.ua' for user 'otconaft' using method 'mysql_native_password' failed with message: Logins are not allowed
+--------------------16.05.2018 18:23:54--------------------
+Authentication to host 'otc.zzz.com.ua' for user 'otconaft' using method 'mysql_native_password' failed with message: Logins are not allowed
+--------------------16.05.2018 18:23:54--------------------
+Authentication to host 'otc.zzz.com.ua' for user 'otconaft' using method 'mysql_native_password' failed with message: Logins are not allowed
+--------------------22.05.2018 16:56:06--------------------
+Unable to connect to any of the specified MySQL hosts.
+--------------------22.05.2018 17:27:53--------------------
+Unable to connect to any of the specified MySQL hosts.
+--------------------22.05.2018 21:08:00--------------------
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.GroupName='4кс-51' AND' at line 1
+--------------------22.05.2018 21:39:57--------------------
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.GroupName='4кс-51' AND' at line 1
+--------------------22.05.2018 21:41:22--------------------
+You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '.GroupName='4кс-51' AND' at line 1
